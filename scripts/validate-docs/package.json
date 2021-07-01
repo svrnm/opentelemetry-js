@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "gfm-code-blocks": "^1.0.0",
+    "glob": "^7.1.7",
+    "html-validate": "^3.5.0"
+  }
+}
